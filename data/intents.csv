@@ -1,0 +1,360 @@
+intent,text
+greet,hello
+greet,hi
+greet,hey
+greet,good morning
+greet,good evening
+goodbye,bye
+goodbye,goodbye
+goodbye,see you
+goodbye,see you later
+thanks,thanks
+thanks,thank you
+thanks,thanks a lot
+affirm,yes
+affirm,yeah
+affirm,okay
+affirm,sure
+deny,no
+deny,no thanks
+deny,not really
+deny,i don't want that
+hotel_search,I want a hotel
+hotel_search,I need a hotel
+hotel_search,Find me a hotel
+hotel_search,Book a hotel
+hotel_search,Show me hotels
+hotel_search,Search for hotels
+hotel_search,I am looking for a hotel
+hotel_search,I need somewhere to stay
+hotel_search,Find accommodation
+hotel_search,Find lodging
+hotel_search,I want a hotel in north
+hotel_search,I want a hotel in the north
+hotel_search,I want a hotel in south
+hotel_search,I want a hotel in the south
+hotel_search,I want a hotel in east
+hotel_search,I want a hotel in the west
+hotel_search,Show hotels in north
+hotel_search,Show hotels in south
+hotel_search,I want a cheap hotel
+hotel_search,I need a cheap hotel
+hotel_search,I want a budget hotel
+hotel_search,I want an expensive hotel
+hotel_search,I want a luxury hotel
+hotel_search,I want a mid hotel
+hotel_search,I want a cheap hotel in south
+hotel_search,I want a cheap hotel in the south
+hotel_search,I want a cheap hotel in north
+hotel_search,I want a cheap hotel in the north
+hotel_search,I want an expensive hotel in south
+hotel_search,I want a luxury hotel in north
+hotel_search,Find a budget hotel in south
+hotel_search,Find a hotel in east
+hotel_search,Show hotels in west
+search_by_stars,I want a 5 star hotel
+search_by_stars,Find a 3-star hotel
+search_by_stars,Show me 4 star options
+search_by_name,Book Hotel California
+search_by_name,Find Central Rooms
+search_by_name,I want to stay at the Grand
+search_by_name,Search for Cozy Cottage
+haunted_check,Is Hotel California haunted
+haunted_check,Are there ghosts in the rooms
+haunted_check,Is this hotel spooky
+haunted_check,Does it have a resident ghost
+haunted_check,Tell me if there are any spirits there
+bot_lifestyle,Where do you sleep
+bot_lifestyle,Do you stay in a 5-star server
+bot_lifestyle,What's your favorite hotel
+bot_lifestyle,Do you ever take a vacation
+bot_lifestyle,Are you a robot or a receptionist
+search_by_tourist_site,Find a hotel near the National Gallery
+search_by_tourist_site,Are there hotels close to tourist spots
+search_by_tourist_site,I want a room near the main attractions
+search_by_tourist_site,Show places to stay near sightseeing
+greet,hiya
+greet,hey there
+greet,good day
+greet,hello there
+greet,hi there
+greet,greetings
+greet,nice to meet you
+greet,morning
+greet,evening
+greet,hello chatbot
+greet,hello assistant
+greet,hi assistant
+greet,good afternoon
+greet,yo
+greet,hey buddy
+goodbye,bye bye
+goodbye,catch you later
+goodbye,talk to you later
+goodbye,have a nice day
+goodbye,farewell
+goodbye,see ya
+goodbye,take care
+goodbye,i am leaving
+goodbye,good night
+goodbye,exit
+goodbye,quit
+goodbye,close chat
+goodbye,see you soon
+goodbye,until next time
+goodbye,bye for now
+goodbye,have a good one
+thanks,many thanks
+thanks,thank you very much
+thanks,appreciate it
+thanks,much appreciated
+thanks,thanks buddy
+thanks,thanks assistant
+thanks,great thanks
+thanks,cheers
+thanks,thank you so much
+thanks,awesome thanks
+thanks,thanks for your help
+thanks,thanks a million
+thanks,that's helpful
+thanks,perfect thanks
+thanks,thank you chatbot
+thanks,i appreciate your help
+thanks,thank you kindly
+affirm,of course
+affirm,absolutely
+affirm,definitely
+affirm,certainly
+affirm,sounds good
+affirm,please do
+affirm,go ahead
+affirm,that's right
+affirm,correct
+affirm,fine
+affirm,ok
+affirm,yep
+affirm,indeed
+affirm,why not
+affirm,i agree
+affirm,works for me
+deny,never mind
+deny,cancel
+deny,stop
+deny,incorrect
+deny,absolutely not
+deny,negative
+deny,don't do that
+deny,not now
+deny,i disagree
+deny,nope
+deny,leave it
+deny,forget it
+deny,cancel that
+deny,don't search
+deny,no way
+deny,nothing
+search_by_stars,find a five star hotel
+search_by_stars,show 5 star hotels
+search_by_stars,show four star hotels
+search_by_stars,i need a 4 star hotel
+search_by_stars,book a 5 star hotel
+search_by_stars,find a hotel with 3 stars
+search_by_stars,find 2 star accommodation
+search_by_stars,i need a luxury 5 star hotel
+search_by_stars,show me 3 star hotels
+search_by_stars,find four star options
+search_by_stars,hotel with five stars
+search_by_stars,search hotels by stars
+search_by_stars,display 4 star hotels
+search_by_stars,looking for a 5 star hotel
+search_by_stars,i want 2 star hotels
+search_by_stars,any 3 star hotel
+search_by_stars,show hotels with 4 stars
+search_by_name,book grand hotel
+search_by_name,find hotel california
+search_by_name,search for ben's bnb
+search_by_name,take me to cozy cottage
+search_by_name,reserve grand hotel
+search_by_name,look for hotel california
+search_by_name,i need central rooms
+search_by_name,book cozy cottage
+search_by_name,show hotel california
+search_by_name,find grand hotel
+search_by_name,search grand hotel
+search_by_name,locate ben's bnb
+search_by_name,reserve hotel california
+search_by_name,i want grand hotel
+search_by_name,find cozy cottage
+search_by_name,show ben's bnb
+haunted_check,is grand hotel haunted
+haunted_check,is cozy cottage haunted
+haunted_check,are ghosts real there
+haunted_check,is this place haunted
+haunted_check,is the hotel scary
+haunted_check,is it safe to stay there
+haunted_check,is the hotel cursed
+haunted_check,any paranormal activity
+haunted_check,do ghosts stay there
+haunted_check,is hotel california safe
+haunted_check,is there a ghost hotel
+haunted_check,is it possessed
+haunted_check,is there anything spooky
+haunted_check,haunted hotel?
+haunted_check,any ghost stories
+bot_lifestyle,where do you live
+bot_lifestyle,do you eat
+bot_lifestyle,do you have holidays
+bot_lifestyle,what do you do
+bot_lifestyle,who are you
+bot_lifestyle,are you human
+bot_lifestyle,are you an ai
+bot_lifestyle,do you get tired
+bot_lifestyle,what is your job
+bot_lifestyle,where is your office
+bot_lifestyle,what do you like
+bot_lifestyle,what is your favourite place
+bot_lifestyle,can you sleep
+bot_lifestyle,do you dream
+bot_lifestyle,how old are you
+search_by_tourist_site,hotel near museum
+search_by_tourist_site,hotel near city center
+search_by_tourist_site,stay near tourist attractions
+search_by_tourist_site,find accommodation near museum
+search_by_tourist_site,hotel close to downtown
+search_by_tourist_site,room near monument
+search_by_tourist_site,hotel near airport
+search_by_tourist_site,hotel near railway station
+search_by_tourist_site,hotel near beach
+search_by_tourist_site,hotel near national park
+search_by_tourist_site,hotel near shopping mall
+search_by_tourist_site,hotel close to attractions
+search_by_tourist_site,show hotels near city centre
+search_by_tourist_site,book hotel near gallery
+search_by_tourist_site,stay close to sightseeing
+search_by_tourist_site,find hotels near landmark
+greet,hi chatbot
+greet,hey bot
+greet,good to see you
+greet,hello friend
+goodbye,i have to go
+goodbye,later
+goodbye,gotta go
+goodbye,see you tomorrow
+thanks,thanks so much
+thanks,i appreciate it
+thanks,thanks a ton
+thanks,thanks again
+thanks,really appreciate it
+affirm,that works
+affirm,exactly
+affirm,alright
+deny,nah
+deny,don't
+deny,i changed my mind
+hotel_search,find me a hotel
+hotel_search,i need accommodation
+hotel_search,book me a room
+hotel_search,show hotels
+hotel_search,recommend a hotel
+hotel_search,i need a place to stay
+hotel_search,find a cheap hotel
+hotel_search,find a luxury hotel
+hotel_search,show hotels in north
+hotel_search,show hotels in south
+hotel_search,book a budget hotel in east
+hotel_search,i need a hotel in west
+hotel_search,find accommodation in north
+hotel_search,reserve a hotel for me
+hotel_search,can you book a hotel
+hotel_search,find an affordable hotel
+hotel_search,show premium hotels
+hotel_search,need a hotel tonight
+hotel_search,hotel near downtown
+hotel_search,find me lodging
+hotel_search,i want a room in north
+hotel_search,cheap hotel in south
+hotel_search,luxury hotel in east
+hotel_search,budget accommodation
+hotel_search,find a family hotel
+hotel_search,search hotels
+hotel_search,hotel options please
+hotel_search,look for hotels
+hotel_search,need hotel
+hotel_search,book accommodation
+hotel_search,find room
+search_by_stars,show 3 star hotels
+search_by_stars,need a 4 star hotel
+search_by_stars,display 5 star options
+search_by_stars,book a 2 star hotel
+search_by_stars,find luxury 5 star stay
+search_by_stars,show me hotels with 3 stars
+search_by_stars,search by stars
+search_by_stars,need one star hotel
+search_by_stars,hotel with four stars
+search_by_stars,five star accommodation
+search_by_stars,best 5 star hotel
+search_by_stars,budget 2 star hotel
+search_by_stars,4 star stay
+search_by_stars,3 star room
+search_by_name,search hotel california
+search_by_name,locate central rooms
+search_by_name,show cozy cottage
+search_by_name,book central rooms
+search_by_name,hotel california please
+search_by_name,find the grand
+search_by_name,cozy cottage availability
+search_by_name,reserve central rooms
+search_by_name,book the grand
+search_by_name,find my hotel california
+haunted_check,is this hotel haunted
+haunted_check,is there a ghost
+haunted_check,is it spooky
+haunted_check,does the hotel have ghosts
+haunted_check,is the place cursed
+haunted_check,ghost stories here
+haunted_check,any spirits here
+haunted_check,is hotel california scary
+haunted_check,tell me about ghosts
+haunted_check,is this place safe
+haunted_check,haunted rooms?
+haunted_check,ghost hotel
+bot_lifestyle,what are you
+bot_lifestyle,do you sleep
+bot_lifestyle,who created you
+bot_lifestyle,do you travel
+bot_lifestyle,are you alive
+bot_lifestyle,can you take vacation
+bot_lifestyle,what's your hobby
+search_by_tourist_site,hotel near station
+search_by_tourist_site,stay near attractions
+search_by_tourist_site,find hotel near gallery
+search_by_tourist_site,hotel close to monument
+search_by_tourist_site,hotel near park
+search_by_tourist_site,hotel near mall
+search_by_tourist_site,room near tourist places
+search_by_tourist_site,stay near landmark
+search_by_tourist_site,hotel near temple
+search_by_tourist_site,hotel near castle
+search_by_tourist_site,hotel near zoo
+bot_owner,who created you
+bot_owner,who is your creator
+bot_owner,who made you
+bot_owner,who built you
+bot_owner,who developed you
+bot_owner,who is your owner
+bot_owner,who owns you
+bot_owner,tell me your creator
+bot_owner,who designed you
+bot_owner,who created this chatbot
+unsupported_search,my budget is 10000
+unsupported_search,my budget is 5000
+unsupported_search,my budget is 20000
+unsupported_search,budget is 10000
+unsupported_search,my budget is 10 thousand
+unsupported_search,my budget is 1 lakh
+unsupported_search,my budget is 50000
+unsupported_search,find a hotel under 10000
+unsupported_search,find a hotel below 5000
+unsupported_search,hotel within 2 km
+unsupported_search,hotel within 5 km
+unsupported_search,hotel 3 km away

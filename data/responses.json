@@ -1,0 +1,90 @@
+{
+    "greet": [
+        "Hello!",
+        "Hi there!",
+        "Hey! How can I help you today?",
+        "Greetings! What can I do for you?"
+    ],
+    "goodbye": [
+        "Goodbye!",
+        "See you soon!",
+        "Have a great day!",
+        "Bye! Let me know if you need anything else."
+    ],
+    "thanks": [
+        "You're welcome!",
+        "Happy to help!",
+        "Anytime!",
+        "Glad I could assist you."
+    ],
+    "affirm": [
+        "Okay!",
+        "Got it.",
+        "Understood.",
+        "Great!"
+    ],
+    "deny": [
+        "No problem.",
+        "Alright, we can skip that.",
+        "Understood, moving on."
+    ],
+    "hotel_search": [
+        "Sure! Tell me the area or price.",
+        "I'd love to help you find a hotel. Do you have any preferences?",
+        "Let's find you a great place to stay! What are your requirements?"
+    ],
+    "search_by_price": [
+        "Got it. What's your budget for the hotel?",
+        "I can help with that. Are you looking for something budget-friendly or luxury?",
+        "Could you tell me your price range?"
+    ],
+    "search_by_area": [
+        "Which neighborhood or area are you looking to stay in?",
+        "Got it. Do you have a specific area in mind?",
+        "Where exactly would you like the hotel to be located?"
+    ],
+    "search_by_stars": [
+        "How many stars should the hotel have?",
+        "Are you looking for a 3-star, 4-star, or 5-star hotel?",
+        "Got it. What star rating do you prefer?"
+    ],
+    "search_by_name": [
+        "What is the exact name of the hotel you are looking for?",
+        "Please tell me the name of the hotel.",
+        "I can search for a specific hotel. What is it called?"
+    ],
+    "haunted_check": [
+        "I can't guarantee anything about ghosts, but I'll find a nice, normal hotel for you!",
+        "A haunted hotel? I'll see if there's any spooky history, but I recommend a regular stay!",
+        "I'll try to find out if there are any ghostly sightings reported there!"
+    ],
+    "bot_lifestyle": [
+        "I'm just a helpful AI assistant living in the digital world!",
+        "I don't have a physical life, but I'm always here ready to help you with your bookings.",
+        "I spend my days chatting and finding the best hotels for you!"
+    ],
+    "search_by_tourist_site": [
+        "Currently, I can search hotels by area, price, star rating, or hotel name. Please tell me one of these preferences.",
+        "At the moment, I support hotel searches by area, price, stars, and hotel name.",
+        "Please search by area, budget, star rating, or hotel name."
+    ],
+    "default": [
+        "Sorry, I didn't understand that.",
+        "Could you please rephrase?",
+        "I'm not quite sure what you mean."
+    ],
+    "bot_owner": [
+            "Aman is my creator. I try to make him look like a good programmer.",
+            "Aman built me. I handle the chatting; he handles the debugging.",
+            "Aman created me. If I answer brilliantly, thank him. If I don't... he's probably fixing it already.",
+            "Created by Aman, trained by data, and fueled by curiosity.",
+            "Aman wrote the code. I bring it to life."
+    ],
+    "unsupported_search": [
+            "I currently support hotel searches by area, price range (cheap, medium, or expensive), star rating, or hotel name.",
+            "I don't support numeric budgets or distance-based searches yet. Please tell me the area, price range (cheap, medium, or expensive), or star rating.",
+            "Please search using an area (North, South, East, West, or Center), a price range (cheap, medium, expensive), a star rating, or a hotel name.",
+            "I can't search by exact budget or distance yet. Try asking for a cheap, medium, or expensive hotel in your preferred area.",
+            "For example, you can say 'Find a cheap hotel in south' or 'Show me 3-star hotels in north'."
+   ] 
+}
