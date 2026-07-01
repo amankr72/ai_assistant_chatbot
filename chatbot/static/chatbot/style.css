@@ -1,0 +1,156 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    min-height:100vh;
+}
+.hero{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.hero h1{
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    color: #2563eb;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+
+.hero p{
+    font-size: 18px;
+    color: #6b7280;
+    margin: 0;
+}
+
+.supported{
+    margin-top:18px;
+    font-size:15px;
+    color:#6b7280;
+    line-height:1.6;
+    text-align:center;
+}
+
+.supported strong{
+    color:#374151;
+}
+
+.container{
+    width:500px;
+    height:520px;
+    background:white;
+    border-radius:12px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.15);
+    display:flex;
+    flex-direction:column;
+    overflow:hidden;
+
+}
+
+.header{
+    background: linear-gradient(
+        135deg,
+        #0076fd,
+        #b16cfa,
+        #ad0cfe,
+        #d26cf7,
+        #0471fe
+    );
+    background-size: 300% 300%;
+
+    animation: gradientFlow 8s ease infinite;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color:#eeeff1;
+    text-align:center;
+    padding:18px;
+    font-size:24px;
+    font-weight:bold;
+    -webkit-text-stroke: 0.2px #fc4444;
+}
+@keyframes gradientFlow{
+
+    0%{
+        background-position:0% 50%;
+    }
+
+    50%{
+        background-position:100% 50%;
+    }
+
+    100%{
+        background-position:0% 50%;
+    }
+
+}
+
+#chat-box{
+    flex:1;
+    padding:20px;
+    overflow-y:auto;
+    background:#fafafa;
+}
+
+.bot-message{
+     background:#e5e7eb;
+    padding:12px 16px;
+    border-radius:12px;
+    width:fit-content;
+    max-width:70%;
+    margin-bottom:15px;
+    white-space: pre-wrap;
+}
+  
+  
+.user-message{
+    background:#2563eb;
+    color:white;
+    padding:12px 16px;
+    border-radius:12px;
+    width:fit-content;
+    max-width:70%;
+    margin-left:auto;
+    margin-bottom:15px;
+}
+
+.input-area{
+    display:flex;
+    padding:15px;
+    border-top:1px solid #ddd;
+    background:white;
+}
+
+#message{
+    flex:1;
+    padding:12px;
+    font-size:16px;
+    border:1px solid #ccc;
+    border-radius:8px;
+    white-space: pre-wrap;
+}
+
+#send-btn{
+    margin-left:10px;
+    padding:12px 20px;
+    background:#2563eb;
+    color:white;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+#send-btn:hover{
+    background:#1d4ed8;
+}

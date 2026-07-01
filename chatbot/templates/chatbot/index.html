@@ -1,0 +1,62 @@
+{% load static %}
+
+<!DOCTYPE html>
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Assistant</title>
+
+    <link rel="stylesheet" href="{% static 'chatbot/style.css' %}">
+</head>
+
+<body>
+{% csrf_token %}
+
+<div class="hero">
+    <h1>FindINN</h1>
+    <p>The AI-powered way to find your perfect stay.</p>
+     <div class="supported">
+        <strong>Try asking:</strong><br>
+        "Find a cheap hotel in south" •
+        "Find a 3-star hotel" •
+        "Find Sunset Inn"
+    </div>
+</div>
+
+<div class="container">
+
+    <div class="header">
+        AI Assistant
+    </div>
+
+    <div id="chat-box">
+
+        <div class="bot-message">
+            Hello! How can I help you today?
+        </div>
+
+    </div>
+
+    <div class="input-area">
+
+        <input
+            type="text"
+            id="message"
+            placeholder="Type your message..."
+        >
+
+        <button id="send-btn">
+            Send
+        </button>
+
+    </div>
+
+</div>
+
+<script src="{% static 'chatbot/script.js' %}"></script>
+
+</body>
+</html>
