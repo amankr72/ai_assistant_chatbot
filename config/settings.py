@@ -26,9 +26,14 @@ SECRET_KEY = 'django-insecure-15&92a!yj(^ly1a8sw@&2f#01($#a36z-154vpzm@yq7!rwuq)
 DEBUG = False
 
 ALLOWED_HOSTS = [
-     "amankumarengi.pythonanywhere.com",
+    "ai_assistant_chatbot.onrender.com",
+    "localhost",
+    "127.0.0.1",
 ]
 
+CSRF_TRUSTED_ORIGINS = [
+    "https://ai_assistant_chatbot.onrender.com",
+]
 
 # Application definition
 
