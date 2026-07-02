@@ -1,6 +1,6 @@
 import spacy
 
-nlp = spacy.load("en_core_web_md")
+nlp = spacy.load("en_core_web_sm")
 
 text = "I want a cheap hotel in the north"
 
