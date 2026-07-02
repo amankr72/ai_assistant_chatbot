@@ -18,7 +18,7 @@ print(df.head())
 print()
 print(df.shape)
 
-nlp = spacy.load("en_core_web_md")
+nlp = spacy.load("en_core_web_sm")
 
 # Convert sentences to vectors
 X = []
