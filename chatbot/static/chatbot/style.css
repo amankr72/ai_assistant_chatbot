@@ -110,7 +110,7 @@ body{
     width:fit-content;
     max-width:70%;
     margin-bottom:15px;
-    white-space: pre-wrap;
+    /* white-space: pre-wrap; */
 }
   
   
