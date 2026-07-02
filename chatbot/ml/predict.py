@@ -4,14 +4,25 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 
-model = joblib.load(BASE_DIR / "model.pkl")
-encoder = joblib.load(BASE_DIR / "label_encoder.pkl")
+model = None
+encoder = None
+nlp = None
 
-nlp = spacy.load("en_core_web_sm")
 
+def load_models():
+    global model, encoder, nlp
+
+    if model is None:
+        model = joblib.load(BASE_DIR / "model.pkl")
+
+    if encoder is None:
+        encoder = joblib.load(BASE_DIR / "label_encoder.pkl")
+
+    if nlp is None:
+        nlp = spacy.load("en_core_web_sm")
 
 def predict_intent(message):
-
+    load_models()
     doc = nlp(message)
 
     vector = doc.vector.reshape(1, -1)
