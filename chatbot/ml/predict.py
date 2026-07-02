@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent
 model = joblib.load(BASE_DIR / "model.pkl")
 encoder = joblib.load(BASE_DIR / "label_encoder.pkl")
 
-nlp = spacy.load("en_core_web_md")
+nlp = spacy.load("en_core_web_sm")
 
 
 def predict_intent(message):
